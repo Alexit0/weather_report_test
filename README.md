@@ -16,9 +16,9 @@ selects weekly option, logs weekly forecast.
 Save the token in `.env` file in the root folder as `BOT_TOKEN` variable.
 
 2. Install dependencies from requirements.txt
-    ````
-    pip install -r requirements.txt
-    ````
+````
+pip install -r requirements.txt
+````
 ## Start
 ````
 python bot/bot.py
