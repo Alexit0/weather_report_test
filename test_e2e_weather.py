@@ -5,7 +5,7 @@ from page_objects.HomePage import HomePage
 from page_objects.LocationPage import LocationPage
 
 from selenium.webdriver.common.by import By
-from test_data.HopePageData import HomePageData
+from test_data.HomePageData import HomePageData
 
 
 class TestClass(BaseClass):

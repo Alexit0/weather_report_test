@@ -13,7 +13,7 @@ selects weekly option, logs weekly forecast.
 
 >(You can find a step-by-step guide [here](https://core.telegram.org/bots/tutorial))
 
-Save the token in .env file in the root folder as BOT_TOKEN variable.
+Save the token in `.env` file in the root folder as `BOT_TOKEN` variable.
 
 2. Install dependencies from requirements.txt
     ````
@@ -25,4 +25,7 @@ python bot/bot.py
 ````
 
 ## Usage
-Find the bot, send '/start' to activate. Send '/report' to run the test.
+Find the bot, send `/start` to activate. Send `/report` to run the test.
+
+
+Change location in `test_data/HomePageData.py`
