@@ -9,8 +9,7 @@ selects weekly option, logs weekly forecast.
 
 
 ## Install
-1. Obtain a token from  @BotFather, issuing the /newbot command and 
-following the steps until you're given a new token.
+1. Create a bot and obtain a token from  @BotFather
 
 >(You can find a step-by-step guide [here](https://core.telegram.org/bots/tutorial))
 
