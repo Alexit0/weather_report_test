@@ -1,0 +1,13 @@
+2023-04-12 22:49:18,671 : INFO : test_e2e_weather : Rejected cookies
+2023-04-12 22:49:21,381 : INFO : test_e2e_weather : LOGGING TODAY'S WEATHER >>> 
+2023-04-12 22:49:21,383 : INFO : test_e2e_weather : Current Time::10:49 PM
+2023-04-12 22:49:21,385 : INFO : test_e2e_weather : Current Weather:13°C
+2023-04-12 22:49:21,388 : INFO : test_e2e_weather : Weather Details:Cloudy
+2023-04-12 22:49:22,094 : INFO : test_e2e_weather : LOGGING FORECAST FOR THE UPCOMING WEEK ... 
+2023-04-12 22:49:22,225 : INFO : test_e2e_weather : WED(4/12) :: Temp: 17°/8°
+2023-04-12 22:49:22,266 : INFO : test_e2e_weather : THU(4/13) :: Temp: 13°/7°
+2023-04-12 22:49:22,300 : INFO : test_e2e_weather : FRI(4/14) :: Temp: 13°/5°
+2023-04-12 22:49:22,344 : INFO : test_e2e_weather : SAT(4/15) :: Temp: 12°/4°
+2023-04-12 22:49:22,383 : INFO : test_e2e_weather : SUN(4/16) :: Temp: 8°/4°
+2023-04-12 22:49:22,493 : INFO : test_e2e_weather : MON(4/17) :: Temp: 14°/5°
+2023-04-12 22:49:22,547 : INFO : test_e2e_weather : TUE(4/18) :: Temp: 17°/5°
