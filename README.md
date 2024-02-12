@@ -6,8 +6,10 @@ selects weekly option, logs weekly forecast.
 
 ***
 
-## Requirements
- <li>Python 3.9.10
+## Built with
+[![Python][Python-badge]][Python-url] <br>
+[![python-telegram-bot][PTB-badge]][PTB-url] <br>
+[![pytest][pytest-badge]][pytest-url] <br>
 
 
 ## Install
@@ -32,3 +34,12 @@ Find the bot, send `/start` to activate. Send `/report` to run the test.
 
 
 Change location in `test_data/HomePageData.py`
+
+[Python-badge]: https://img.shields.io/badge/Python-3.9.10-3776AB?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org/downloads/release/python-3910/
+
+[PTB-badge]: https://img.shields.io/badge/python--telegram--bot-20.0-0088CC?style=for-the-badge&logo=telegram&logoColor=white
+[PTB-url]: https://pypi.org/project/python-telegram-bot/20.0/
+
+[pytest-badge]: https://img.shields.io/badge/pytest-7.3.0-0A9EDC?style=for-the-badge&logo=python&logoColor=white
+[pytest-url]: https://pypi.org/project/pytest/7.3.0/
